@@ -1,0 +1,9 @@
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\bin\Debug\201801147_DEPOSITOS.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\bin\Debug\201801147_DEPOSITOS.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\bin\Debug\201801147_DEPOSITOS.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\_201801147_DEPOSITOS.Form1.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\_201801147_DEPOSITOS.Resources.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\201801147_DEPOSITOS.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\201801147_DEPOSITOS.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\201801147_DEPOSITOS.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_DEPOSITOS\201801147_DEPOSITOS\obj\Debug\201801147_DEPOSITOS.pdb

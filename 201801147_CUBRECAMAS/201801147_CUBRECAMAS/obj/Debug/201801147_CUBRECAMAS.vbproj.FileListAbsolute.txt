@@ -1,0 +1,9 @@
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\bin\Debug\201801147_CUBRECAMAS.exe
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\bin\Debug\201801147_CUBRECAMAS.pdb
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\bin\Debug\201801147_CUBRECAMAS.xml
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\_201801147_CUBRECAMAS.Form1.resources
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\_201801147_CUBRECAMAS.Resources.resources
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\201801147_CUBRECAMAS.vbproj.GenerateResource.Cache
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\201801147_CUBRECAMAS.exe
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\201801147_CUBRECAMAS.xml
+C:\Users\Miguel\documents\visual studio 2012\Projects\201801147_CUBRECAMAS\201801147_CUBRECAMAS\obj\Debug\201801147_CUBRECAMAS.pdb

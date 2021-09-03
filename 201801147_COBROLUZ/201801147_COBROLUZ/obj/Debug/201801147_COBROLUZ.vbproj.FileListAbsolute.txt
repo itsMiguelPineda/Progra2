@@ -1,0 +1,9 @@
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\bin\Debug\201801147_COBROLUZ.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\bin\Debug\201801147_COBROLUZ.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\bin\Debug\201801147_COBROLUZ.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\_201801147_COBROLUZ.Form1.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\_201801147_COBROLUZ.Resources.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\201801147_COBROLUZ.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\201801147_COBROLUZ.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\201801147_COBROLUZ.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_COBROLUZ\201801147_COBROLUZ\obj\Debug\201801147_COBROLUZ.pdb

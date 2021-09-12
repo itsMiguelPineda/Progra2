@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\_201801147_CINE.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\_201801147_CINE.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\201801147_CINE.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\bin\Debug\201801147_CINE.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\bin\Debug\201801147_CINE.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\bin\Debug\201801147_CINE.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\201801147_CINE.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\201801147_CINE.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\201801147_CINE\201801147_CINE\obj\Debug\201801147_CINE.pdb

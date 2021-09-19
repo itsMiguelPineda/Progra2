@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\bin\Debug\201801147_RENTAAUTOS.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\bin\Debug\201801147_RENTAAUTOS.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\bin\Debug\201801147_RENTAAUTOS.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\_201801147_RENTAAUTOS.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\_201801147_RENTAAUTOS.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\201801147_RENTAAUTOS.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\201801147_RENTAAUTOS.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\201801147_RENTAAUTOS.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_RENTAAUTOS\201801147_RENTAAUTOS\obj\Debug\201801147_RENTAAUTOS.pdb

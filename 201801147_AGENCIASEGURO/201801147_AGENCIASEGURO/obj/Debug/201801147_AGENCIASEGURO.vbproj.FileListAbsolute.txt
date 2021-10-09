@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\bin\Debug\201801147_AGENCIASEGURO.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\bin\Debug\201801147_AGENCIASEGURO.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\bin\Debug\201801147_AGENCIASEGURO.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\_201801147_AGENCIASEGURO.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\_201801147_AGENCIASEGURO.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\201801147_AGENCIASEGURO.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\201801147_AGENCIASEGURO.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\201801147_AGENCIASEGURO.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_AGENCIASEGURO\201801147_AGENCIASEGURO\obj\Debug\201801147_AGENCIASEGURO.pdb

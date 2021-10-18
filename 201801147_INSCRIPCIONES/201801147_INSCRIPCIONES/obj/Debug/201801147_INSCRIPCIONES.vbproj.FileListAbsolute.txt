@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\bin\Debug\201801147_INSCRIPCIONES.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\bin\Debug\201801147_INSCRIPCIONES.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\bin\Debug\201801147_INSCRIPCIONES.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\_201801147_INSCRIPCIONES.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\_201801147_INSCRIPCIONES.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\201801147_INSCRIPCIONES.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\201801147_INSCRIPCIONES.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\201801147_INSCRIPCIONES.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_INSCRIPCIONES\201801147_INSCRIPCIONES\obj\Debug\201801147_INSCRIPCIONES.pdb

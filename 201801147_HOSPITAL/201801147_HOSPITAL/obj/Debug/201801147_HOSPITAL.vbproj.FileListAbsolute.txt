@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\bin\Debug\201801147_HOSPITAL.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\bin\Debug\201801147_HOSPITAL.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\bin\Debug\201801147_HOSPITAL.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\_201801147_HOSPITAL.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\_201801147_HOSPITAL.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\201801147_HOSPITAL.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\201801147_HOSPITAL.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\201801147_HOSPITAL.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_HOSPITAL\201801147_HOSPITAL\obj\Debug\201801147_HOSPITAL.pdb

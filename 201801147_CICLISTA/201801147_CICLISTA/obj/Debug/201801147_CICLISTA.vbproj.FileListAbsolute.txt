@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\bin\Debug\201801147_CICLISTA.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\bin\Debug\201801147_CICLISTA.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\bin\Debug\201801147_CICLISTA.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\_201801147_CICLISTA.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\_201801147_CICLISTA.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\201801147_CICLISTA.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\201801147_CICLISTA.exe
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\201801147_CICLISTA.xml
+c:\users\miguel\documents\visual studio 2012\Projects\201801147_CICLISTA\201801147_CICLISTA\obj\Debug\201801147_CICLISTA.pdb
